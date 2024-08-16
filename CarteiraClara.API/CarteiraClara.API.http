@@ -1,0 +1,6 @@
+@CarteiraClara.API_HostAddress = http://localhost:5270
+
+GET {{CarteiraClara.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
